@@ -1,6 +1,6 @@
 name: "Garrett's Portfolio"
 favicon: null
-layout_spectrum: 0.88879
+layout_spectrum: 0.25338
 typography_spectrum: 0.61354
 title: "Garrett Sherwood's Portfolio"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5e2f1b'
     - '#c4cbd3'
     - '#8e7b6d'
-  brandStrength: 0.375
-  lightness: 0.6875
+  brandStrength: 0.875
+  lightness: 0.4375
   saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
