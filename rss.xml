@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Garrett Sherwood's Portfolio]]></title>
         <description><![CDATA[Garrett Sherwood's Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 03:22:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 03:30:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>PDF Content</p>]]></description>
-            <link>undefinedb25c0a26-e298-48aa-adc3-7346371001ee/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2593f82-e5ab-4915-99b5-9b8b276ccb4f.png">]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/b25c0a26-e298-48aa-adc3-7346371001ee/index.html</link>
             <guid isPermaLink="false">b25c0a26-e298-48aa-adc3-7346371001ee</guid>
-            <pubDate>Fri, 04 Mar 2016 03:21:59 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 03:29:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
