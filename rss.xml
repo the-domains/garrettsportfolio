@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett Sherwood's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 23:29:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8dc5eb4-6794-41fa-b20a-c8e4eaaec8a6.png">]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/51e6d64b-46e6-4837-86b3-53b1b9d6d5c5/index.html</link>
+            <guid isPermaLink="false">51e6d64b-46e6-4837-86b3-53b1b9d6d5c5</guid>
+            <pubDate>Fri, 04 Mar 2016 23:27:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Individual Projects]]></title>
             <description><![CDATA[<article><h1>Individual Projects</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1b889ab7bbb5a33c077c1a686392799731a77ca.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/9969051d-c2d5-47ac-a935-c2f331470563/index.html</link>
             <guid isPermaLink="false">9969051d-c2d5-47ac-a935-c2f331470563</guid>
             <pubDate>Fri, 04 Mar 2016 23:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artifact 7 - IMC Plan for Deep Love Opera]]></title>
-            <description><![CDATA[<article><h1>Artifact 7 - IMC Plan for Deep Love Opera</h1><p>Explanation - The Deep Love brand had been growing, however as the possibility of new markets arose,  a plan needed to be created to most appropriately</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7a1c17d0b76c6883d7ddb394284e98e6b801a1e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/15b8ee44-8da0-4d36-b287-c7b0871ca660/index.html</link>
-            <guid isPermaLink="false">15b8ee44-8da0-4d36-b287-c7b0871ca660</guid>
-            <pubDate>Fri, 04 Mar 2016 21:07:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
