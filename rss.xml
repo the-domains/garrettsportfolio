@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Garrett Sherwood's Portfolio]]></title>
+        <description><![CDATA[Garrett Sherwood's Portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 20:59:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48d4b7b3-21fd-4bf8-92a2-22554f0c6a7c.jpg">]]></description>
+            <link>undefined7132164c-9e1d-43d1-a736-c2a032220cc4/index.html</link>
+            <guid isPermaLink="false">7132164c-9e1d-43d1-a736-c2a032220cc4</guid>
+            <pubDate>Fri, 04 Mar 2016 20:59:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
