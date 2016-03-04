@@ -1,0 +1,28 @@
+name: "Garrett's Portfolio"
+favicon: null
+layout_spectrum: 0.780591269955039
+typography_spectrum: 0.6099362506065518
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3646797633264214
+  lightness: 0.7813120342325419
+  saturation: 0.9982289241161197
+  rhythmicContrast: 0.5954544886481017
+purpose: []
