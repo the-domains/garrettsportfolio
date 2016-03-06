@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T21:04:35.090Z'
-dateModified: '2016-03-06T21:04:28.927Z'
+datePublished: '2016-03-06T21:06:40.678Z'
+dateModified: '2016-03-06T21:06:40.230Z'
 title: Individual Projects
 author: []
 sourcePath: _posts/2016-03-06-individual-projects.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: individual-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Individual Projects
