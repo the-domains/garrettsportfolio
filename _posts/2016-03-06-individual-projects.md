@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T20:58:33.015Z'
-dateModified: '2016-03-06T20:58:21.420Z'
+datePublished: '2016-03-06T21:02:17.029Z'
+dateModified: '2016-03-06T21:01:53.773Z'
 title: Individual Projects
 author: []
 sourcePath: _posts/2016-03-06-individual-projects.md
