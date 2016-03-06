@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett Sherwood's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 20:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 20:48:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fundraising Packet]]></title>
+            <description><![CDATA[<article><h1>Fundraising Packet</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e3790d8-b223-43ff-8e8b-4a2c7dbdf4df.jpg"></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/2c851d25-2d15-4892-914e-95af84816eae/index.html</link>
+            <guid isPermaLink="false">2c851d25-2d15-4892-914e-95af84816eae</guid>
+            <pubDate>Sun, 06 Mar 2016 20:48:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad52fb4f-673a-484b-b85d-0787c32af5a0.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/c04517a3-ec36-4686-99eb-9a89b9929ba8/index.html</link>
             <guid isPermaLink="false">c04517a3-ec36-4686-99eb-9a89b9929ba8</guid>
             <pubDate>Sat, 05 Mar 2016 22:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d924dc1-9f26-490c-9e54-52cc0c103656.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/a3079852-b8de-483b-9910-bcf97820cab0/index.html</link>
-            <guid isPermaLink="false">a3079852-b8de-483b-9910-bcf97820cab0</guid>
-            <pubDate>Sat, 05 Mar 2016 22:51:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
