@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T21:06:40.678Z'
-dateModified: '2016-03-06T21:06:40.230Z'
+datePublished: '2016-03-06T21:09:42.779Z'
+dateModified: '2016-03-06T21:09:36.961Z'
 title: Individual Projects
 author: []
 sourcePath: _posts/2016-03-06-individual-projects.md
