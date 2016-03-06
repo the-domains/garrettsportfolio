@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T20:56:03.863Z'
-dateModified: '2016-03-06T20:55:39.276Z'
+datePublished: '2016-03-06T20:58:33.015Z'
+dateModified: '2016-03-06T20:58:21.420Z'
 title: Individual Projects
 author: []
+sourcePath: _posts/2016-03-06-individual-projects.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-individual-projects.md
-published: true
 url: individual-projects/index.html
 _type: Article
 
@@ -31,4 +31,4 @@ For an idea of my process, I have also included three examples for each project 
 **Click on the titles of the projects to see the full PDF document. **
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f87e15e6-7dc6-4e6a-b8b5-2168128ef3f3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2887cf5b96b1c09c7392fe52a471671ad586ea14.jpg)
