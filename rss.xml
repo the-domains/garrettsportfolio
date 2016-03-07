@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett Sherwood's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 03:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 03:15:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact Info</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/9a240d87-e952-4c65-b089-e1207787e479/index.html</link>
+            <guid isPermaLink="false">9a240d87-e952-4c65-b089-e1207787e479</guid>
+            <pubDate>Mon, 07 Mar 2016 03:13:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/482bfc3a-ad4f-42d9-824f-3c8bb467af93.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/2de36fe7-785c-412e-b2e9-e29e5a047463/index.html</link>
             <guid isPermaLink="false">2de36fe7-785c-412e-b2e9-e29e5a047463</guid>
             <pubDate>Sun, 06 Mar 2016 20:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eb0415a-4f38-403c-88be-10844d9eab5f.png">]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/f1707399-056f-4f1b-a615-f42c24077e33/index.html</link>
-            <guid isPermaLink="false">f1707399-056f-4f1b-a615-f42c24077e33</guid>
-            <pubDate>Sun, 06 Mar 2016 19:46:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
