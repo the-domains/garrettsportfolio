@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T21:09:42.779Z'
-dateModified: '2016-03-06T21:09:36.961Z'
+datePublished: '2016-03-07T21:02:38.580Z'
+dateModified: '2016-03-07T21:02:33.486Z'
 title: Individual Projects
 author: []
 sourcePath: _posts/2016-03-06-individual-projects.md
@@ -31,4 +31,3 @@ For an idea of my process, I have also included three examples for each project 
 **Click on the titles of the projects to see the full PDF document. **
 
 ****
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2887cf5b96b1c09c7392fe52a471671ad586ea14.jpg)
