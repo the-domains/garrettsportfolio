@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett Sherwood's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 02:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 02:54:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/fca5a5c5-3d69-4758-8149-fedd5512851c/index.html</link>
+            <guid isPermaLink="false">fca5a5c5-3d69-4758-8149-fedd5512851c</guid>
+            <pubDate>Mon, 07 Mar 2016 02:53:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Team Projects]]></title>
             <description><![CDATA[<article><h1>Team Projects</h1><p>Each one of the following 4 projects was created with a team. I have identified the role I played for each project.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/f1707399-056f-4f1b-a615-f42c24077e33/index.html</link>
             <guid isPermaLink="false">f1707399-056f-4f1b-a615-f42c24077e33</guid>
             <pubDate>Sun, 06 Mar 2016 19:46:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internal Communications Analysis]]></title>
-            <description><![CDATA[<article><h1>Internal Communications Analysis</h1><p>Deep Love Opera as an organization was growing rapidly in size, and facing many communication problems as a result. I researched, analyzed, and provided recommendations on how to solve those problems. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a02d2f3a928b3d7fb214190942f41e80921536e9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/cd28a62a-c72e-4c22-ab73-a4ea5a5c8c25/index.html</link>
-            <guid isPermaLink="false">cd28a62a-c72e-4c22-ab73-a4ea5a5c8c25</guid>
-            <pubDate>Sun, 06 Mar 2016 19:21:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
