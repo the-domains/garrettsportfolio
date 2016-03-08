@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 02:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 02:30:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfa0d7b4-e0da-491e-a152-c84febd8a13d.png">]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/55e521c5-a087-436d-a828-d8fbe67e7cef/index.html</link>
+            <guid isPermaLink="false">55e521c5-a087-436d-a828-d8fbe67e7cef</guid>
+            <pubDate>Tue, 08 Mar 2016 02:28:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I am a recent graduate from Westminster College in Salt Lake City, Utah, with a Masters in Strategic Communication. My lifetime passion has been a pursuit of relentless creativity, which has taken me to variety of projects and a breadth of experiences. I now apply that creativity to communications, where my passion is directed at identifying and solving problems in whatever the next project is before me. See my full resume here</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/2c851d25-2d15-4892-914e-95af84816eae/index.html</link>
             <guid isPermaLink="false">2c851d25-2d15-4892-914e-95af84816eae</guid>
             <pubDate>Sun, 06 Mar 2016 20:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad52fb4f-673a-484b-b85d-0787c32af5a0.png">]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/3b573f65-a7cb-4293-bb0f-7e53af0996aa/index.html</link>
-            <guid isPermaLink="false">3b573f65-a7cb-4293-bb0f-7e53af0996aa</guid>
-            <pubDate>Sun, 06 Mar 2016 20:31:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
