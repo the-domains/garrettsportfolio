@@ -1,6 +1,6 @@
 name: "Garrett's Portfolio"
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.14427
 typography_spectrum: 0.62075
 title: null
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.3125
   saturation: 0.4375
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
