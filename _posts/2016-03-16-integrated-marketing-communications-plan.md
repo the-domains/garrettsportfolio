@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Integrated Marketing Communications Plan
-datePublished: '2016-03-16T20:30:30.339Z'
-dateModified: '2016-03-16T20:30:26.106Z'
+datePublished: '2016-03-16T20:31:39.985Z'
+dateModified: '2016-03-16T20:31:37.239Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-integrated-marketing-communications-plan.md
