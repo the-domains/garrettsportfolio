@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 20:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 20:17:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Integrated Marketing Communications Plan</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/integrated-marketing-communications-plan/index.html</link>
+            <guid isPermaLink="false">2b0bfee2-263e-4a90-ae97-bf94a8e753bb</guid>
+            <pubDate>Wed, 16 Mar 2016 20:17:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>IMC Plan Step #1 - Situation Analysis</p>]]></description>
