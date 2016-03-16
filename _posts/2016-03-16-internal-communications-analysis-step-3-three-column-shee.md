@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Internal Communications Analysis Step #3 - Three Column Sheet'
-datePublished: '2016-03-16T20:45:04.125Z'
-dateModified: '2016-03-16T20:44:57.018Z'
+datePublished: '2016-03-16T20:50:21.299Z'
+dateModified: '2016-03-16T20:50:17.085Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-internal-communications-analysis-step-3-three-column-shee.md
