@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 22:00:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Individual Projects]]></title>
+            <description><![CDATA[<h1>Individual Projects</h1>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/individual-projects/index.html</link>
+            <guid isPermaLink="false">2628a29a-33ad-4027-9cba-dc46c0f1ebc2</guid>
+            <pubDate>Wed, 16 Mar 2016 22:00:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Client]]></title>
             <description><![CDATA[<article><h1>The Client</h1><p>Deep Love Opera is a fledgling musical theater production company, that primarily operates and produces the original musical production, Deep Love: A Ghostly Rock Opera. The company and the show has slowly built a brand and a following in the Mountain West area, but has similar struggles to all small start-up companies, as well as a few unique challenges.</p></article>]]></description>
