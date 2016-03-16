@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:47:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Individual Projects]]></title>
+            <description><![CDATA[<article><h1>Individual Projects</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/individual-projects/index.html</link>
+            <guid isPermaLink="false">80c88bb4-f3ef-4ab0-9388-78d0c3d80c44</guid>
+            <pubDate>Wed, 16 Mar 2016 21:47:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Client]]></title>
             <description><![CDATA[<article><h1>The Client</h1><p>Deep Love Opera is a fledgling musical theater production company, that primarily operates and produces the original musical production, Deep Love: A Ghostly Rock Opera. The company and the show has slowly built a brand and a following in the Mountain West area, but has similar struggles to all small start-up companies, as well as a few unique challenges.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-3-three-column-shee/index.html</link>
             <guid isPermaLink="false">ab61808a-2f37-42ce-bc59-61695a86641c</guid>
             <pubDate>Wed, 16 Mar 2016 20:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Integrated Marketing Communications Plan]]></title>
-            <description><![CDATA[<article><h1>Integrated Marketing Communications Plan</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0c0ca8e-c940-49f0-a5df-469438797b18.jpg"></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/e6d8eaf8-a837-4406-85a1-694014f7dd74/index.html</link>
-            <guid isPermaLink="false">e6d8eaf8-a837-4406-85a1-694014f7dd74</guid>
-            <pubDate>Wed, 16 Mar 2016 20:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
