@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 20:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:03:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Internal Communications Analysis Step #1 - Executive Summary</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-1-executive-summary/index.html</link>
+            <guid isPermaLink="false">0d6e383a-227d-43d7-99ff-2ba2588e83bf</guid>
+            <pubDate>Wed, 16 Mar 2016 21:03:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Internal Communications Analysis Step #2 - Interview and Observation Guides</p>]]></description>
