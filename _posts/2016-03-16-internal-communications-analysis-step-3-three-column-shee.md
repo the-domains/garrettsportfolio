@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Internal Communications Analysis Step #3 - Three Column Sheet'
-datePublished: '2016-03-16T20:42:46.109Z'
-dateModified: '2016-03-16T20:42:18.065Z'
+datePublished: '2016-03-16T20:45:04.125Z'
+dateModified: '2016-03-16T20:44:57.018Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-internal-communications-analysis-step-3-three-column-shee.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-internal-communications-analysis-step-3-three-column-shee.md
-published: true
 url: internal-communications-analysis-step-3-three-column-shee/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 ****
 
 * It was important to visually lay out all my data points into the major categories they corresponded to.
-* **This allowed me to look for trends and prohibit any personal inferences I might have added, instead relying solely on the data.**
+* This allowed me to look for trends and prohibit any personal inferences I might have added, instead relying solely on the data.
 * ******\#CreativeProblemSolving \#InformationProcessing**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a6c4d95-0fd7-44de-b27f-7af55a58d3c3.png)
 
