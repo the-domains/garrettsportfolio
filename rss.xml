@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Garrett's Portfolio]]></title>
         <description><![CDATA[Garrett's Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 19:56:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 19:57:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>IMC Plan Step #3 - Creative Brief</p>]]></description>
-            <link>undefinedimc-plan-step-3-creative-brief/index.html</link>
+            <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-3-creative-brief/index.html</link>
             <guid isPermaLink="false">45eeb5ad-8737-4418-b4dd-b45ef3da43b9</guid>
-            <pubDate>Wed, 16 Mar 2016 19:55:59 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 19:57:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
