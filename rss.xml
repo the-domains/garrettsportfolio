@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 22:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 20:50:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Presentation on Expansion Strategies]]></title>
+            <description><![CDATA[<article><h1>Presentation on Expansion Strategies</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/fbd19386-0a57-4957-8c1c-e0bc73872fee/index.html</link>
+            <guid isPermaLink="false">fbd19386-0a57-4957-8c1c-e0bc73872fee</guid>
+            <pubDate>Fri, 18 Mar 2016 20:49:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Individual Projects]]></title>
             <description><![CDATA[<article><h1>Individual Projects</h1><p>Each of the following 3 projects highlight the importance of process. Each are for the same client, but a different problem and situation. For each project I've included examples of the steps I took to get to my final product.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-2-interview-and-obs/index.html</link>
             <guid isPermaLink="false">2233ea68-71ab-4dc0-9fc3-64b5e98beb4b</guid>
             <pubDate>Wed, 16 Mar 2016 20:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Internal Communications Analysis Step #3 - Three Column Sheet</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-3-three-column-shee/index.html</link>
-            <guid isPermaLink="false">ab61808a-2f37-42ce-bc59-61695a86641c</guid>
-            <pubDate>Wed, 16 Mar 2016 20:50:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
