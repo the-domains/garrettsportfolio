@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 20:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 21:03:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Integrated Marketing Plan]]></title>
+            <description><![CDATA[<article><h1>Integrated Marketing Plan</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8b7d121-353e-4918-ba0c-98fbe8432513.jpg"></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/cee67f60-e479-4aaa-ba51-23739faca196/index.html</link>
+            <guid isPermaLink="false">cee67f60-e479-4aaa-ba51-23739faca196</guid>
+            <pubDate>Fri, 18 Mar 2016 21:02:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Presentation on Expansion Strategies]]></title>
             <description><![CDATA[<article><h1>Presentation on Expansion Strategies</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-1-executive-summary/index.html</link>
             <guid isPermaLink="false">0d6e383a-227d-43d7-99ff-2ba2588e83bf</guid>
             <pubDate>Wed, 16 Mar 2016 21:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Internal Communications Analysis Step #2 - Interview and Observation Guides</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-2-interview-and-obs/index.html</link>
-            <guid isPermaLink="false">2233ea68-71ab-4dc0-9fc3-64b5e98beb4b</guid>
-            <pubDate>Wed, 16 Mar 2016 20:58:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
