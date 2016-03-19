@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 21:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 02:44:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Team Projects]]></title>
+            <description><![CDATA[<article><h1>Team Projects</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/team-projects/index.html</link>
+            <guid isPermaLink="false">0d5d45e4-726a-4b1e-aca6-a86595dde1d6</guid>
+            <pubDate>Sat, 19 Mar 2016 02:44:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Employee Handbook Overhaul]]></title>
             <description><![CDATA[<article><h1>Employee Handbook Overhaul</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-2-document-plan/index.html</link>
             <guid isPermaLink="false">90e92571-0575-4f7f-af2d-67f14732db54</guid>
             <pubDate>Wed, 16 Mar 2016 21:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Fundraising Packet Step #3 - Usability Testing and Analysis</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-3-usability-testing-and-analysis/index.html</link>
-            <guid isPermaLink="false">64eabc17-9848-4236-a930-c248a17b251b</guid>
-            <pubDate>Wed, 16 Mar 2016 21:17:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
