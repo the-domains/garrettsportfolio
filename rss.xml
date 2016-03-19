@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 03:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 03:43:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact Info</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/56e82813-6be6-4c1c-874f-1e5badb47013/index.html</link>
+            <guid isPermaLink="false">56e82813-6be6-4c1c-874f-1e5badb47013</guid>
+            <pubDate>Sat, 19 Mar 2016 03:42:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What you will see in this portfolio:</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/d55695b5-eb23-4147-827f-c4c09edd7390/index.html</link>
             <guid isPermaLink="false">d55695b5-eb23-4147-827f-c4c09edd7390</guid>
             <pubDate>Wed, 16 Mar 2016 21:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Fundraising Packet Step #1 - Donor Persona</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-1-donor-persona/index.html</link>
-            <guid isPermaLink="false">1a0e61b6-277d-4b53-ab18-c707cff200aa</guid>
-            <pubDate>Wed, 16 Mar 2016 21:30:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
