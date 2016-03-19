@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 04:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 04:32:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4df9f894-d0bd-46c5-b518-7707480ad1df.png">]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/5bca66a2-734b-4048-9a70-1a3dc283060b/index.html</link>
+            <guid isPermaLink="false">5bca66a2-734b-4048-9a70-1a3dc283060b</guid>
+            <pubDate>Sat, 19 Mar 2016 04:31:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who I Am]]></title>
             <description><![CDATA[<article><h1>Who I Am</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/fbd19386-0a57-4957-8c1c-e0bc73872fee/index.html</link>
             <guid isPermaLink="false">fbd19386-0a57-4957-8c1c-e0bc73872fee</guid>
             <pubDate>Fri, 18 Mar 2016 20:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Individual Projects]]></title>
-            <description><![CDATA[<article><h1>Individual Projects</h1><p>Each of the following 3 projects highlight the importance of process. Each are for the same client, but a different problem and situation. For each project I've included examples of the steps I took to get to my final product.</p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/cdac568d-d983-4c58-bfd3-81450a0b2105/index.html</link>
-            <guid isPermaLink="false">cdac568d-d983-4c58-bfd3-81450a0b2105</guid>
-            <pubDate>Wed, 16 Mar 2016 22:52:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
