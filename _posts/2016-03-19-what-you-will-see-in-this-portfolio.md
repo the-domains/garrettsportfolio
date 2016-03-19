@@ -6,29 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: "What you will see in this portfolio:\_"
-datePublished: '2016-03-19T03:16:59.314Z'
-dateModified: '2016-03-19T03:16:31.597Z'
+datePublished: '2016-03-19T03:19:53.827Z'
+dateModified: '2016-03-19T03:19:45.585Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-19-what-you-will-see-in-this-portfolio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-what-you-will-see-in-this-portfolio.md
-published: true
 url: what-you-will-see-in-this-portfolio/index.html
 _type: Article
 
 ---
-What you will see in this portfolio: 
+**What you will see in this portfolio: **
 
--I am a competent team player, being a part of, and leading, many teams in many different types of tasks. 
+I am a competent team player, being a part of, and leading, many teams in many different types of tasks. 
 
 ****
 
-* I have separated out the work here into two sections, the first being team projects and the second being individual.
+* I have separated out the work here into two sections, the first being     team projects and the second being individual.
 
 ****
 
