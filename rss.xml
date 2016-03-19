@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 03:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 03:17:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What you will see in this portfolio: </p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/what-you-will-see-in-this-portfolio/index.html</link>
+            <guid isPermaLink="false">73162fbb-1867-4c1b-9490-8f98e9885b3b</guid>
+            <pubDate>Sat, 19 Mar 2016 03:16:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Team Projects]]></title>
             <description><![CDATA[<article><h1>Team Projects</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-1-donor-persona/index.html</link>
             <guid isPermaLink="false">1a0e61b6-277d-4b53-ab18-c707cff200aa</guid>
             <pubDate>Wed, 16 Mar 2016 21:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Fundraising Packet Step #2 - Document Plan</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-2-document-plan/index.html</link>
-            <guid isPermaLink="false">90e92571-0575-4f7f-af2d-67f14732db54</guid>
-            <pubDate>Wed, 16 Mar 2016 21:24:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
