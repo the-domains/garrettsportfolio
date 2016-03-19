@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 04:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 04:26:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who I Am]]></title>
+            <description><![CDATA[<article><h1>Who I Am</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/who-i-am/index.html</link>
+            <guid isPermaLink="false">39a47644-3b37-41c0-99b9-dc1a1727d227</guid>
+            <pubDate>Sat, 19 Mar 2016 04:24:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Is Strategic Communication?]]></title>
             <description><![CDATA[<article><h1>What Is Strategic Communication?</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/cdac568d-d983-4c58-bfd3-81450a0b2105/index.html</link>
             <guid isPermaLink="false">cdac568d-d983-4c58-bfd3-81450a0b2105</guid>
             <pubDate>Wed, 16 Mar 2016 22:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Client]]></title>
-            <description><![CDATA[<article><h1>The Client</h1><p>Deep Love Opera is a fledgling musical theater production company, that primarily operates and produces the original musical production, Deep Love: A Ghostly Rock Opera. The company and the show has slowly built a brand and a following in the Mountain West area, but has similar struggles to all small start-up companies, as well as a few unique challenges.</p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/deep-love-opera-is-a-fledgling-musical-theater-production-co/index.html</link>
-            <guid isPermaLink="false">b5c6cea9-d951-44cb-ba96-8ab1c23e1598</guid>
-            <pubDate>Wed, 16 Mar 2016 21:43:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
