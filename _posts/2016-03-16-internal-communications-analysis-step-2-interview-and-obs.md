@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Internal Communications Analysis Step #2 - Interview and Observation Guides'
-datePublished: '2016-03-16T20:58:22.294Z'
-dateModified: '2016-03-16T20:58:18.608Z'
+datePublished: '2016-04-02T21:38:00.707Z'
+dateModified: '2016-04-02T21:37:53.807Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-internal-communications-analysis-step-2-interview-and-obs.md
@@ -24,8 +24,8 @@ _type: Article
 ---
 **[Internal Communications Analysis Step \#2 - Interview and Observation Guides][0]**
 
-* The bulk of my research was through speaking to personnel and observing interactions
-* I created guides for my own use in this endeavor, which were carefully designed to produce the type of data that would be most useful to my analysis.
+* The did the bulk of my research was through speaking to personnel and observing interactions.
+* I created guides for my own use, which were carefully designed to produce the type of data that would be most useful to my analysis.
 * **\#VerbalCommunication \#Organization \#Rhetorical Design**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea0c7e6-8d71-4270-8cb0-433b9579201f.png)
 
