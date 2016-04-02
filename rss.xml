@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 21:33:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Internal Communications Analysis Step #3 - Three Column Sheet</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-3-three-column-shee/index.html</link>
+            <guid isPermaLink="false">ab61808a-2f37-42ce-bc59-61695a86641c</guid>
+            <pubDate>Sat, 02 Apr 2016 21:32:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>IMC Plan Step #1 - Situation Analysis</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/team-projects/index.html</link>
             <guid isPermaLink="false">3d1d3b29-f32f-41a5-a79e-3c4f8657f965</guid>
             <pubDate>Sat, 19 Mar 2016 03:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Employee Handbook Overhaul]]></title>
-            <description><![CDATA[<article><h1>Employee Handbook Overhaul</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/17a277d2-31e6-48bf-bf22-cb8dd929ec97/index.html</link>
-            <guid isPermaLink="false">17a277d2-31e6-48bf-bf22-cb8dd929ec97</guid>
-            <pubDate>Fri, 18 Mar 2016 21:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
