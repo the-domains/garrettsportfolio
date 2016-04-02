@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 21:59:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fundraising Packet Step #3 - Usability Testing and Analysis</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-3-usability-testing-and-analysis/index.html</link>
+            <guid isPermaLink="false">64eabc17-9848-4236-a930-c248a17b251b</guid>
+            <pubDate>Sat, 02 Apr 2016 21:58:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Internal Communications Analysis]]></title>
             <description><![CDATA[<article><h1>Internal Communications Analysis</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/who-i-am/index.html</link>
             <guid isPermaLink="false">39a47644-3b37-41c0-99b9-dc1a1727d227</guid>
             <pubDate>Sat, 19 Mar 2016 04:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Strategic Communication?]]></title>
-            <description><![CDATA[<article><h1>What Is Strategic Communication?</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/c3b81863-8581-4379-b007-8b52cc6cfa0d/index.html</link>
-            <guid isPermaLink="false">c3b81863-8581-4379-b007-8b52cc6cfa0d</guid>
-            <pubDate>Sat, 19 Mar 2016 04:01:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
