@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 20:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 21:19:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>IMC Plan Step #3 - Creative Brief</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-3-creative-brief/index.html</link>
+            <guid isPermaLink="false">45eeb5ad-8737-4418-b4dd-b45ef3da43b9</guid>
+            <pubDate>Sat, 02 Apr 2016 21:19:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcfd3b0e0067ed087d71d2367b5226a7d6499d51.png" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/cee67f60-e479-4aaa-ba51-23739faca196/index.html</link>
             <guid isPermaLink="false">cee67f60-e479-4aaa-ba51-23739faca196</guid>
             <pubDate>Fri, 18 Mar 2016 21:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Presentation on Expansion Strategies]]></title>
-            <description><![CDATA[<article><h1>Presentation on Expansion Strategies</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/fbd19386-0a57-4957-8c1c-e0bc73872fee/index.html</link>
-            <guid isPermaLink="false">fbd19386-0a57-4957-8c1c-e0bc73872fee</guid>
-            <pubDate>Fri, 18 Mar 2016 20:53:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
