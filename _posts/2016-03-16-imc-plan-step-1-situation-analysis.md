@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'IMC Plan Step #1 - Situation Analysis'
-datePublished: '2016-03-16T20:10:40.734Z'
-dateModified: '2016-03-16T20:10:36.378Z'
+datePublished: '2016-04-02T21:27:09.769Z'
+dateModified: '2016-04-02T21:27:09.346Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-imc-plan-step-1-situation-analysis.md
@@ -26,7 +26,7 @@ _type: Article
 
 ****
 
-* The first step was to analyze the current conditions of the company, the brand, the product, and the market, to create a clear road map for how best to proceed with future marketing strategies.
+* The first step was to analyze the current conditions of the company, the brand, the product, and the market, to ultimately create a clear road map for how best to proceed with future marketing strategies.
 * **\#Research \#SituationAnalysis \#BrandEvaluation**
 
 **[][0]**
