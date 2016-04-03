@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 01:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 01:48:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who I Am]]></title>
+            <description><![CDATA[<article><h1>Who I Am</h1><p>I am a graduate from Westminster College in Salt Lake City, Utah, with a Masters in Strategic Communication. I grew up with a serious hunger for trying to understand problems, make analyses, and form strategies. I was the kind of kid who’d rather be the coach of the soccer team than the star player. </p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/who-i-am/index.html</link>
+            <guid isPermaLink="false">39a47644-3b37-41c0-99b9-dc1a1727d227</guid>
+            <pubDate>Sun, 03 Apr 2016 01:47:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Contact Info</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/cdac568d-d983-4c58-bfd3-81450a0b2105/index.html</link>
             <guid isPermaLink="false">cdac568d-d983-4c58-bfd3-81450a0b2105</guid>
             <pubDate>Sun, 03 Apr 2016 00:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Client]]></title>
-            <description><![CDATA[<article><h1>The Client</h1><p>Deep Love Opera is a fledgling musical theater production company, that primarily operates and produces the original musical production, Deep Love: A Ghostly Rock Opera. The company and the show has slowly built a brand and a following in the Mountain West area, but has similar struggles as all small start-up companies, as well as a few unique challenges.</p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/deep-love-opera-is-a-fledgling-musical-theater-production-co/index.html</link>
-            <guid isPermaLink="false">b5c6cea9-d951-44cb-ba96-8ab1c23e1598</guid>
-            <pubDate>Sun, 03 Apr 2016 00:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
