@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 00:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 00:40:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Client]]></title>
+            <description><![CDATA[<article><h1>The Client</h1><p>Deep Love Opera is a fledgling musical theater production company, that primarily operates and produces the original musical production, Deep Love: A Ghostly Rock Opera. The company and the show has slowly built a brand and a following in the Mountain West area, but has similar struggles as all small start-up companies, as well as a few unique challenges.</p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/deep-love-opera-is-a-fledgling-musical-theater-production-co/index.html</link>
+            <guid isPermaLink="false">b5c6cea9-d951-44cb-ba96-8ab1c23e1598</guid>
+            <pubDate>Sun, 03 Apr 2016 00:40:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fundraising Packet]]></title>
             <description><![CDATA[<article><h1>Fundraising Packet</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-1-situation-analysis/index.html</link>
             <guid isPermaLink="false">93eb0953-9fec-49a6-9975-dedcbaf44758</guid>
             <pubDate>Sat, 02 Apr 2016 21:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>IMC Plan Step #2 - Consumer Profiles</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-2-consumer-profiles/index.html</link>
-            <guid isPermaLink="false">a7c06341-d15d-4436-8f4a-8bca0b286511</guid>
-            <pubDate>Sat, 02 Apr 2016 21:24:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
