@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T02:04:12.172Z'
-dateModified: '2016-04-03T02:04:07.848Z'
-title: Team Projects
+datePublished: '2016-04-03T02:33:10.918Z'
+dateModified: '2016-04-03T02:33:09.382Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-03-19-team-projects.md
 published: true
@@ -22,6 +22,8 @@ publisher:
 _type: Blurb
 
 ---
+# 
+
 # Team Projects
 
 ****
