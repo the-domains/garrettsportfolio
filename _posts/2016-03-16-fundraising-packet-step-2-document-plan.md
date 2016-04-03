@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Fundraising Packet Step #2 - Document Plan'
-datePublished: '2016-04-03T00:24:18.373Z'
-dateModified: '2016-04-03T00:23:17.107Z'
+datePublished: '2016-04-03T00:24:41.034Z'
+dateModified: '2016-04-03T00:24:23.103Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-fundraising-packet-step-2-document-plan.md
