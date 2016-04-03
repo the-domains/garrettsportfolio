@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 00:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 00:36:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fundraising Packet]]></title>
+            <description><![CDATA[<article><h1>Fundraising Packet</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/d55695b5-eb23-4147-827f-c4c09edd7390/index.html</link>
+            <guid isPermaLink="false">d55695b5-eb23-4147-827f-c4c09edd7390</guid>
+            <pubDate>Sun, 03 Apr 2016 00:36:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fundraising Packet Step #1 - Donor Persona</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-2-consumer-profiles/index.html</link>
             <guid isPermaLink="false">a7c06341-d15d-4436-8f4a-8bca0b286511</guid>
             <pubDate>Sat, 02 Apr 2016 21:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>IMC Plan Step #3 - Creative Brief</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-3-creative-brief/index.html</link>
-            <guid isPermaLink="false">45eeb5ad-8737-4418-b4dd-b45ef3da43b9</guid>
-            <pubDate>Sat, 02 Apr 2016 21:19:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
