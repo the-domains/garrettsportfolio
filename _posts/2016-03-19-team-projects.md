@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T01:05:44.118Z'
-dateModified: '2016-04-03T01:05:07.004Z'
+datePublished: '2016-04-03T02:03:59.635Z'
+dateModified: '2016-04-03T02:03:51.254Z'
 title: Team Projects
 author: []
 sourcePath: _posts/2016-03-19-team-projects.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: team-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Team Projects
