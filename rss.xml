@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 01:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 01:35:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Is Strategic Communication?]]></title>
+            <description><![CDATA[<article><h1>What Is Strategic Communication?</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/c3b81863-8581-4379-b007-8b52cc6cfa0d/index.html</link>
+            <guid isPermaLink="false">c3b81863-8581-4379-b007-8b52cc6cfa0d</guid>
+            <pubDate>Sun, 03 Apr 2016 01:35:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><h1></h1><p>What you will see in this portfolio:</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/d55695b5-eb23-4147-827f-c4c09edd7390/index.html</link>
             <guid isPermaLink="false">d55695b5-eb23-4147-827f-c4c09edd7390</guid>
             <pubDate>Sun, 03 Apr 2016 00:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Fundraising Packet Step #1 - Donor Persona</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-1-donor-persona/index.html</link>
-            <guid isPermaLink="false">1a0e61b6-277d-4b53-ab18-c707cff200aa</guid>
-            <pubDate>Sun, 03 Apr 2016 00:28:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
