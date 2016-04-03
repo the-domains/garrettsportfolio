@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Fundraising Packet Step #1 - Donor Persona'
-datePublished: '2016-03-16T21:30:48.558Z'
-dateModified: '2016-03-16T21:30:44.179Z'
+datePublished: '2016-04-03T00:28:02.448Z'
+dateModified: '2016-04-03T00:27:54.033Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-fundraising-packet-step-1-donor-persona.md
@@ -24,8 +24,8 @@ _type: Article
 ---
 **[Fundraising Packet Step \#1 - Donor Persona][0]**
 
-* The first step is always research, so I researched the target audience, and created this donor persona.
-* This persona, based on key research, served as a guide for the rest of the document design and creation.
+* The first step is always research, so I researched the target audience, and created a donor persona.
+* The persona, based on key research, served as a guide for the rest of the document design and creation.
 * **\#Research \#CreativeProblemSolving**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcca9c17-4771-4868-8437-e5a4d5846c33.png)
 
