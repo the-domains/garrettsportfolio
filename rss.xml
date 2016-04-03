@@ -4,14 +4,21 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 00:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 00:28:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fundraising Packet Step #1 - Donor Persona</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-1-donor-persona/index.html</link>
+            <guid isPermaLink="false">1a0e61b6-277d-4b53-ab18-c707cff200aa</guid>
+            <pubDate>Sun, 03 Apr 2016 00:28:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fundraising Packet Step #2 - Document Plan</p>]]></description>
             <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-2-document-plan/index.html</link>
             <guid isPermaLink="false">90e92571-0575-4f7f-af2d-67f14732db54</guid>
-            <pubDate>Sun, 03 Apr 2016 00:24:18 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 00:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-3-creative-brief/index.html</link>
             <guid isPermaLink="false">45eeb5ad-8737-4418-b4dd-b45ef3da43b9</guid>
             <pubDate>Sat, 02 Apr 2016 21:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcfd3b0e0067ed087d71d2367b5226a7d6499d51.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/0b1067c6-a53b-4a4c-a08f-84e49b4dd113/index.html</link>
-            <guid isPermaLink="false">0b1067c6-a53b-4a4c-a08f-84e49b4dd113</guid>
-            <pubDate>Sat, 02 Apr 2016 20:45:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
