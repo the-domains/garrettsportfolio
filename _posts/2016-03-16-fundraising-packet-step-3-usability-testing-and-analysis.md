@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Fundraising Packet Step #3 - Usability Testing and Analysis'
-datePublished: '2016-04-02T21:58:48.745Z'
-dateModified: '2016-04-02T21:58:07.335Z'
+datePublished: '2016-04-03T21:21:38.502Z'
+dateModified: '2016-04-03T21:21:29.857Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-fundraising-packet-step-3-usability-testing-and-analysis.md
