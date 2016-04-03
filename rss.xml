@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 01:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 01:40:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact Info</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/56e82813-6be6-4c1c-874f-1e5badb47013/index.html</link>
+            <guid isPermaLink="false">56e82813-6be6-4c1c-874f-1e5badb47013</guid>
+            <pubDate>Sun, 03 Apr 2016 01:40:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Is Strategic Communication?]]></title>
             <description><![CDATA[<article><h1>What Is Strategic Communication?</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/deep-love-opera-is-a-fledgling-musical-theater-production-co/index.html</link>
             <guid isPermaLink="false">b5c6cea9-d951-44cb-ba96-8ab1c23e1598</guid>
             <pubDate>Sun, 03 Apr 2016 00:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fundraising Packet]]></title>
-            <description><![CDATA[<article><h1>Fundraising Packet</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/d55695b5-eb23-4147-827f-c4c09edd7390/index.html</link>
-            <guid isPermaLink="false">d55695b5-eb23-4147-827f-c4c09edd7390</guid>
-            <pubDate>Sun, 03 Apr 2016 00:36:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
