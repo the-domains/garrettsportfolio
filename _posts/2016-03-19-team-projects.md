@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T02:03:59.635Z'
-dateModified: '2016-04-03T02:03:51.254Z'
+datePublished: '2016-04-03T02:04:12.172Z'
+dateModified: '2016-04-03T02:04:07.848Z'
 title: Team Projects
 author: []
 sourcePath: _posts/2016-03-19-team-projects.md
