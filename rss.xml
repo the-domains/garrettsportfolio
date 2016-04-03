@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 00:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 00:43:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Individual Projects]]></title>
+            <description><![CDATA[<article><h1>Individual Projects</h1><p>Each of the following 3 projects highlight the importance of process. Each are for the same client, but take on a different problem and situation. For each project I've included examples of the steps I took to produce the final deliverable.</p></article>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/cdac568d-d983-4c58-bfd3-81450a0b2105/index.html</link>
+            <guid isPermaLink="false">cdac568d-d983-4c58-bfd3-81450a0b2105</guid>
+            <pubDate>Sun, 03 Apr 2016 00:43:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Client]]></title>
             <description><![CDATA[<article><h1>The Client</h1><p>Deep Love Opera is a fledgling musical theater production company, that primarily operates and produces the original musical production, Deep Love: A Ghostly Rock Opera. The company and the show has slowly built a brand and a following in the Mountain West area, but has similar struggles as all small start-up companies, as well as a few unique challenges.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/internal-communications-analysis-step-3-three-column-shee/index.html</link>
             <guid isPermaLink="false">ab61808a-2f37-42ce-bc59-61695a86641c</guid>
             <pubDate>Sat, 02 Apr 2016 21:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>IMC Plan Step #1 - Situation Analysis</p>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/imc-plan-step-1-situation-analysis/index.html</link>
-            <guid isPermaLink="false">93eb0953-9fec-49a6-9975-dedcbaf44758</guid>
-            <pubDate>Sat, 02 Apr 2016 21:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
