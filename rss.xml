@@ -4,8 +4,15 @@
         <description><![CDATA[Garrett's Portfolio]]></description>
         <link>https://thegrid.ai/garrettsportfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 00:25:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garrettsportfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fundraising Packet Step #2 - Document Plan</p>]]></description>
+            <link>https://thegrid.ai/garrettsportfolio/fundraising-packet-step-2-document-plan/index.html</link>
+            <guid isPermaLink="false">90e92571-0575-4f7f-af2d-67f14732db54</guid>
+            <pubDate>Sun, 03 Apr 2016 00:24:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fundraising Packet Step #3 - Usability Testing and Analysis</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/garrettsportfolio/0b1067c6-a53b-4a4c-a08f-84e49b4dd113/index.html</link>
             <guid isPermaLink="false">0b1067c6-a53b-4a4c-a08f-84e49b4dd113</guid>
             <pubDate>Sat, 02 Apr 2016 20:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who I Am]]></title>
-            <description><![CDATA[<article><h1>Who I Am</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/garrettsportfolio/who-i-am/index.html</link>
-            <guid isPermaLink="false">39a47644-3b37-41c0-99b9-dc1a1727d227</guid>
-            <pubDate>Sat, 19 Mar 2016 04:28:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
